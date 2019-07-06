@@ -1,0 +1,63 @@
+{
+  "_from": "react-native-fused-location@^0.4.0",
+  "_id": "react-native-fused-location@0.4.0",
+  "_inBundle": false,
+  "_integrity": "sha512-GXFLobFPUszk52RuhazGXZ8cbVpXQMjlPPxTh09n4339rjU9I6Da4BR0NKe/2CBOgensi8uj9YEFvO4KKxlGKg==",
+  "_location": "/react-native-fused-location",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-fused-location@^0.4.0",
+    "name": "react-native-fused-location",
+    "escapedName": "react-native-fused-location",
+    "rawSpec": "^0.4.0",
+    "saveSpec": null,
+    "fetchSpec": "^0.4.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-fused-location/-/react-native-fused-location-0.4.0.tgz",
+  "_shasum": "8f217de382e6e5c34db091cbcaca0c9d2f4c7dc4",
+  "_spec": "react-native-fused-location@^0.4.0",
+  "_where": "/Volumes/WDUltraPassport/Projects/ReactNative/MeetpUpApp/Fresh/meetupapp",
+  "author": {
+    "name": "Mustansir Zia",
+    "email": "mustansir29@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/MustansirZia/react-native-fused-location/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A react native module for android which gets the finest location from fused API. Gets location with or without GPS.",
+  "homepage": "https://github.com/MustansirZia/react-native-fused-location#readme",
+  "keywords": [
+    "react",
+    "react-native",
+    "location",
+    "gps",
+    "fused",
+    "android",
+    "play-services",
+    "npm",
+    "native"
+  ],
+  "license": "MIT",
+  "main": "main.js",
+  "name": "react-native-fused-location",
+  "nativePackage": true,
+  "peerDependencies": {
+    "react-native": ">=0.40.0",
+    "react": ">=15.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MustansirZia/react-native-fused-location.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.4.0"
+}
